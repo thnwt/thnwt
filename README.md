@@ -12,28 +12,20 @@
 *   🌱 I’m focusing on **Python**, **Web Development**, and building **IoT projects** (like Smart Weather Monitors!).
 *   ⚡ **Fun fact:** When I'm taking a break from wiring circuits or writing code, I'm usually grinding ranks in **Valorant** or planning strategies in **Seven Knights: Rebirth**.
 
-## 🛠️ My Tech Stack
-
-### Languages & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
-
-### Hardware & IoT
-<p align="left">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>
-
-## 📊 GitHub Analytics
-
-<!-- สถิติ GitHub สไตล์ Dark Mode สวยๆ -->
+**Tech Stack & Tools** 🛠️
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px"/>
+  <!-- ไอคอนสไตล์โมเดิร์นจาก skillicons.dev -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,arduino,vscode,github&theme=dark" alt="My Skills" />
+  </a>
+</div>
+
+<br><br>
+
+
+<!-- เส้นคั่นบางๆ เพิ่มความเนี๊ยบ -->
+---
+<div align="center">
+  <i>"Sleepy is sanity. No cap." ☕😴</i>
 </div>
